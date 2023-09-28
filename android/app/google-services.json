@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140873024202",
+    "project_id": "abraham-flutter-notesapp",
+    "storage_bucket": "abraham-flutter-notesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140873024202:android:ad355aaaaaf16f6856aa33",
+        "android_client_info": {
+          "package_name": "com.shurrd.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-egIWvDZzrh1nR-_Ju6RrSXWKH1KW-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

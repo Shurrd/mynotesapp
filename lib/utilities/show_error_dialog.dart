@@ -6,7 +6,7 @@ Future<void> showErrorDialog(
 ) {
   return showDialog(
     context: context,
-    builder: (context) {
+    builder: (contex) {
       return AlertDialog(
         title: const Text('An error occurred!'),
         content: Text(text),

@@ -19,6 +19,7 @@ void main() {
       useMaterial3: true,
     ),
     home: const HomePage(),
+    debugShowCheckedModeBanner: false,
     routes: {
       loginRoute: (context) => const LoginView(),
       registerRoute: (context) => const RegisterView(),
